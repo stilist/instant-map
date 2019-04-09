@@ -1,6 +1,6 @@
 {
   "name": "instant-map",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Jordan Cole <code@ratafia.info>",
   "license": "MIT",
   "description": "Drag in a GeoJSON file for an instant map",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/stilist/instant-map#readme",
   "dependencies": {
-    "prebaked-geojson-map": "^1.0.7"
+    "prebaked-geojson-map": "^1.1.0"
   }
 }
