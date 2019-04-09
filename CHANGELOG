@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Changed
 - Upgrade `prebaked-geojson-map` dependency
 - Tweak `.gitignore` rules
+- Use Yarn lockfile instead of npm lockfile
 
 ### Fixed
 - Fix copy-paste errors in the change log
