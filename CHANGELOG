@@ -6,7 +6,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 ### Changed
-- Upgrade `prebaked-geojson-map`
+- Upgrade `prebaked-geojson-map` dependency
+- Tweak `.gitignore` rules
 
 ## 1.0.0 - 2017-11-21
 ### Added
