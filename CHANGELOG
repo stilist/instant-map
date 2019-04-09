@@ -9,8 +9,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Upgrade `prebaked-geojson-map` dependency
 - Tweak `.gitignore` rules
 
-## 1.0.0 - 2017-11-21
+### Fixed
+- Fix copy-paste errors in the change log
+- Add link to v1.0.0 release
+
+## [1.0.0] - 2017-11-21
 ### Added
 - Initial release
 
-[Unreleased]: https://github.com/stilist/prebaked-geojson-map/compare/v1.0.0...master
+[Unreleased]: https://github.com/stilist/instant-map/compare/v1.0.0...master
+[1.0.0]: https://github.com/stilist/instant-map/releases/tag/v1.0.0
